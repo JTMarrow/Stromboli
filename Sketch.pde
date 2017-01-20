@@ -42,7 +42,7 @@ PShape m ;
         text("Click to Play",155,240);
       }else{
       text("game over",170,140);
-      text("score",180,240);
+      text("Skill",180,240);
       text(score,280,240);
       }
       }
